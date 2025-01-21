@@ -1,6 +1,8 @@
 # partgam_r
 Conditional and partial gamma coefficients Local Dependence (LD) And Differential Item Functioning (DIF) Use partgam_LD And partgam_DIF With (In) R software
 
+https://www.youtube.com/watch?v=6aoMVfsNj7g
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
